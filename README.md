@@ -1,5 +1,5 @@
 # Rent-A-Ride
-Projeto simulando cadastro de uma locadora de carros feito em C#.
+Projeto simulando cadastro, visualização e edição de uma locadora de carros feito em C#.
 
 Instruções:
 - Baixar os arquivos.
