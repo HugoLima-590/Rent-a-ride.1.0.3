@@ -11,7 +11,7 @@ namespace P2
     public class ConexaoBanco
     {
         private MySqlConnection conexao;
-        private string data_source = "datasource=localhost;username=root;password=;database=test";
+        private string data_source = "datasource=localhost;username=root;password=;database=test"; //Colocar aqui o endereço do banco de dados
 
         public ConexaoBanco()
         {
